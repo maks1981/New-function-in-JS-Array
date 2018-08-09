@@ -1,0 +1,17 @@
+// New Topic "Array"
+
+var colors = ["red","orange","black","yellow"];
+colors//["red","orange","black","yellow"]
+
+// to change color
+colors[2] = "green"
+// green
+
+// check it
+colors // enter
+["red","orange","green","yellow"]
+
+// also
+colors[7] = "purple"// enter
+
+["red", "orange", "green", "yellow", empty × 3, "purple"]
